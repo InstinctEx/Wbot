@@ -2,7 +2,7 @@
 A discord bot designed for moderation with the advantage of some fun commands
 
 # Commands
-- Moderation
+- Moderation :
     Kick,
     Ban,
     Unban,
@@ -10,7 +10,7 @@ A discord bot designed for moderation with the advantage of some fun commands
     Report,
     Say,
 
-- Info
+- Info :
     8ball,
     help,
     info,
